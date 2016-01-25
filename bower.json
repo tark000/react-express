@@ -1,0 +1,19 @@
+{
+  "name": "react-express",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tark000/newsep",
+  "authors": [
+    "taras <tark000@ukr.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.6"
+  }
+}
